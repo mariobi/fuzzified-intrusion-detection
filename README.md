@@ -1,3 +1,18 @@
+> **Note:** This repository is an exact copy of
+> [rafibu/intrusion_detection_system](https://github.com/rafibu/intrusion_detection_system)
+> by Rafael Burkhalter, which was mirrored on 1 October 2026 at commit `94de2f1`.
+> The code was developed as part of Rafael Burkhalter's Master's thesis "Implementing and testing a fuzzy approach for intrusion detection systems" (University of Fribourg, 2023).
+> It is kept unchanged and serves as a backup and archive for reproducibility.
+> The original repository resembles the code referenced in the paper below. Please cite the paper
+> and refer to the original repository for any later updates.
+>
+> R. Burkhalter, M. Bischof, E. Portmann: *Fuzzifying Intrusion Detection Systems with Modified
+> Artificial Bee Colony and Support Vector Machine Algorithms.* In: New Horizons for Fuzzy Logic,
+> Neural Networks and Metaheuristics, pp. 13–29. Springer (2024).
+> https://doi.org/10.1007/978-3-031-55684-5_2
+
+
+
 # Fuzzy Intrusion Detection System
 
 ---
